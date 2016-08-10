@@ -23,7 +23,7 @@ This repository contains details of some of the CRS' used at CGC.
 
 ## Team: Shellphish (UCSB based)
 
-### Fuzzer: afl (with patches)
+### Fuzzer: afl (with patches for DECREE)
 
 ### Symbolic Executor: [angr](https://github.com/angr/angr)
 
